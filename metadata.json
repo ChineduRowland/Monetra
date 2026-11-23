@@ -1,0 +1,6 @@
+{
+  "name": "Monetra",
+  "description": "Transform scattered financial data into a clear picture of your wealth, business performance and cash flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
